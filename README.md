@@ -1,12 +1,78 @@
-# React + Vite
+# 🖱️📱 Social Media App  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **basic social media app** where users can ➕ add posts and ❌ delete posts.  
+Built using ⚛️ React + 🟦 Context API + ⚡ useReducer for state management.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features 🖱️
+- 📝 Add new posts  
+- ❌ Delete existing posts  
+- 📃 View all posts in real-time  
+- ⚡ Fast & lightweight  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack 🖱️
+- ⚛️ React.js  
+- 🟦 Context API  
+- 🔄 useReducer  
+
+---
+
+## 🚀 Installation & Setup 🖱️
+```bash
+# Clone repo
+git clone https://github.com/prathamjoshi-1/Social-Media-App-Using-Reactjs.git  
+
+# Navigate
+cd social-media-app  
+
+# Install dependencies
+npm install  
+
+# Run app
+npm start
+
+
+---
+
+📌 Folder Structure 🖱️
+
+/src
+ ├── components
+ │    ├── Header.jsx       🖱️👑
+ │    ├── Footer.jsx       🖱️📌
+ │    ├── Sidebar.jsx      🖱️📂
+ │    ├── Post.jsx         🖱️📝
+ │    ├── PostList.jsx     🖱️📃
+ │    ├── CreatePost.jsx   🖱️➕
+ │
+ ├── store
+ │    ├── PostlistContext.jsx 🖱️📦
+ │
+ ├── App.jsx              🖱️⚛️
+ ├── App.css              🖱️🎨
+ └── Main.jsx             🖱️🚀
+
+
+---
+
+🤝 Contributing 🖱️
+
+🍴 Fork the repo
+
+🛠️ Create a new branch
+
+🖊️ Commit your changes
+
+🔀 Open a Pull Request
+
+
+
+---
+
+👨‍💻 Author 🖱️
+
+Made with ❤️ by Pratham Joshi 🚀
+
