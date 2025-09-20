@@ -1,4 +1,4 @@
-y# 🖱️📱 Social Media App  
+by# 🖱️📱 Social Media App  
 
 A **basic social media app** where users can ➕ add posts and ❌ delete posts.  
 Built using ⚛️ React + 🟦 Context API + ⚡ useReducer for state management.  
@@ -29,7 +29,7 @@ git clone https://github.com/prathamjoshi-1/Social-Media-App-Using-Reactjs.git
 cd social-media-app  
 
 # Install dependencies
-npm install  
+npm insstall  
 
 # Run app
 npm start
