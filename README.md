@@ -1,4 +1,4 @@
-de# 🖱️📱 Social Media App  
+dde# 🖱️📱 Social Media App  
 
 A **basic social media app** where users can ➕ add posts and ❌ delete posts.  
 Built using ⚛️ React + 🟦 Context API + ⚡ useReducer for state management.  
